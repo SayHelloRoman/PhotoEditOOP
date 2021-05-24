@@ -12,7 +12,7 @@ with open("info.txt") as f:
     text = f.read()
 
 
-class window:
+class Window:
     def __init__(self):
         self.root = Tk()
         self.root.title("PhotoEdit")
@@ -233,6 +233,6 @@ class window:
         self.Image_main.image = self.imgTK
    
 
-win = window()
+win = Window()
 win.mainloop()
 #за то работает
