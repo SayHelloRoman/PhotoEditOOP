@@ -41,8 +41,7 @@ class window:
         self.image_name = fd.askopenfilename(filetypes=(("Image Files", "*.png *.jpg *.jpeg *.TIFF *.bmp *.dib"),
         ("All files", "*.*") ))
 
-        if self.image_name == "":
-
+        if not self.image_name:
             messagebox.showerror(title="Error", message="You have not selected a photo")
 
         else:
