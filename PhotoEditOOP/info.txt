@@ -1,0 +1,5 @@
+The program was written in Python using the following modules: pillow, os, sys, Tkinter.
+\nAuthor: SayHelloRoman. This program was written to replace PhotoEdit 1.2 using OOP only.
+\nPhotoEdit was my program for one contest, I wrote it for 3 days.
+\nI hope this program will have good functionality and a good program will be published.
+\nThe one who read this thanks to you and good luck.
