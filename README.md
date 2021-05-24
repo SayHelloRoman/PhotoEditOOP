@@ -1,7 +1,15 @@
 # PhotoEditOOP
 
-pip install pillow
+## Что это?
 
-pip install keyboard
+- Это фоторедактор который был написанн для jam
 
-python 3.7.9
+## Как запустить?
+
+- Установить ``requirements.txt``
+- Запустить ``main.py``
+
+## На чём был написан проект?
+
+- Python 3.8.6
+- Tkinter 8.6
